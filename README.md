@@ -49,10 +49,8 @@ Substitua 01001000 pelo CEP desejado.
 Exemplo de Saída
 Após executar o comando acima, você deverá ver a resposta da API do ViaCEP no terminal, mostrando os detalhes do CEP consultado.
 
-Exemplo de saída:
+Exemplo de saída: json
 ````
-json
-Copiar código
 {
   "cep": "01001-000",
   "logradouro": "Praça da Sé",
