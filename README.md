@@ -32,10 +32,10 @@ Se houver dependências no projeto que precisem ser instaladas via Composer, exe
 Copiar código
 composer install
 ````
-Configuração das Chaves SSH (opcional):
+3. **Configuração das Chaves SSH (opcional):**
 
 
-3. **Se você configurou chaves SSH para acessar o GitHub, verifique se elas estão configuradas corretamente no seu ambiente.**
+Se você configurou chaves SSH para acessar o GitHub, verifique se elas estão configuradas corretamente no seu ambiente.
 
 Uso
 Para utilizar o script e consultar um CEP, execute o seguinte comando no terminal:
