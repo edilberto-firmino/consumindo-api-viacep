@@ -70,7 +70,7 @@ Contribuições
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver melhorias para sugerir, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 Autor
-Nome do Autor - Link para o perfil no GitHub
+Nome do Autor - [Edilberto Firmino](https://github.com/edilberto-firmino)
 
 Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
