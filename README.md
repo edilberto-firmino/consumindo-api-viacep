@@ -29,7 +29,7 @@ Antes de começar, certifique-se de ter instalado:
 Se houver dependências no projeto que precisem ser instaladas via Composer, execute:
 
 ```bash
-Copiar código
+//Copiar código
 composer install
 ````
 3. **Configuração das Chaves SSH (opcional):**
@@ -41,7 +41,7 @@ Uso
 Para utilizar o script e consultar um CEP, execute o seguinte comando no terminal:
 
 ````bash
-Copiar código
+//Copiar código
 php index.php 01001000
 ````
 Substitua 01001000 pelo CEP desejado.
