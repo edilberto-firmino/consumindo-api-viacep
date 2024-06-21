@@ -50,7 +50,7 @@ Exemplo de Saída
 Após executar o comando acima, você deverá ver a resposta da API do ViaCEP no terminal, mostrando os detalhes do CEP consultado.
 
 Exemplo de saída: json
-````
+   ```bash
 {
   "cep": "01001-000",
   "logradouro": "Praça da Sé",
